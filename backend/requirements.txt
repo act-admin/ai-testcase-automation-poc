@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+selenium
+pytest
+jinja2  # For generating HTML reports
